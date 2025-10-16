@@ -1,3 +1,7 @@
-* {
-    
+div{
+    background-color: red;
+    width: 500px;
+    box-sizing: content-box;
+    padding: 20px;
+    border: 20px solid black;
 }
